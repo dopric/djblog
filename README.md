@@ -1,0 +1,2 @@
+# djblog
+django blog
